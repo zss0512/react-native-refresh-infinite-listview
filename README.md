@@ -3,7 +3,7 @@ A awesome pull-down-refresh and pull-up-loadmore listview
 
 ## Installation
 ```sh
-npm install @remobile/react-native-refresh-infinite-listview --save
+npm install @zss0512/react-native-refresh-infinite-listview --save
 ```
 
 ## Usage
